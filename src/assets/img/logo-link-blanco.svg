@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo-link-blanco.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 23.812499 13.758334"
+   height="52"
+   width="90"
+   inkscape:export-filename="/Users/pedrozopayares/Documents/Development/link/src/favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4169">
+      <path
+         d="M 0,77.414 H 200 V 0 H 0 Z"
+         id="path4171" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="1"
+     inkscape:window-height="755"
+     inkscape:window-width="1251"
+     showguides="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="50.657241"
+     inkscape:cx="58.555703"
+     inkscape:zoom="3.2993769"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:41.67929999999999779px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04198"
+       id="g1086"
+       aria-label="Link"
+       transform="matrix(0.56714645,0,0,0.56714645,-15.619888,-0.01886836)">
+      <path
+         id="path1076"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:41.67929999999999779px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.528105"
+         d="m 32.027652,21.255711 h 6.116549 l -0.484786,2.784938 H 28.015279 L 30.614554,9.0226187 h 3.537902 z" />
+      <path
+         id="path1078"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:41.67929999999999779px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.528105"
+         d="M 42.661989,24.040649 H 39.258176 L 41.197318,12.88027 h 3.403813 z M 41.496441,10.06439 q -0.02063,-0.7529651 0.526044,-1.2583798 0.556987,-0.5054148 1.340895,-0.5054148 0.794223,0 1.320267,0.4538399 0.536359,0.4538449 0.556988,1.186177 0.02063,0.7632787 -0.526044,1.2686937 -0.546673,0.4951 -1.340896,0.4951 -0.773594,0 -1.320267,-0.443525 -0.536358,-0.45384 -0.556987,-1.196491 z" />
+      <path
+         id="path1080"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:41.67929999999999779px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.528105"
+         d="m 49.851253,12.869956 -0.237235,1.340896 q 1.340896,-1.588447 3.228464,-1.547186 1.547188,0.03092 2.300153,1.15523 0.763279,1.113974 0.556987,3.197522 l -1.175862,7.024231 h -3.403813 l 1.186177,-7.044859 q 0.04126,-0.361009 0.02063,-0.660134 -0.0722,-0.979888 -1.155233,-0.979888 -0.897369,-0.02063 -1.640019,0.794226 l -1.392469,7.890655 H 44.745535 L 46.684677,12.88027 Z" />
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         id="path1082"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:41.67929999999999779px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.528105"
+         d="m 61.671767,19.925134 -1.23775,1.072713 -0.526044,3.042802 H 56.514475 L 59.268469,8.1871368 h 3.393499 L 61.09415,16.645095 c 1.107808,-1.305408 2.321975,-2.519436 3.496647,-3.764825 h 4.301177 l -4.744708,4.744707 2.877768,6.415672 H 63.30147 Z" />
+      <path
+         d="M 42.661989,24.040649 H 39.258176 L 41.197318,12.88027 h 3.403813 z M 41.496441,10.06439 q -0.02063,-0.7529651 0.526044,-1.2583798 0.556987,-0.5054148 1.340895,-0.5054148 0.794223,0 1.320267,0.4538399 0.536359,0.4538449 0.556988,1.186177 0.02063,0.7632787 -0.526044,1.2686937 -0.546673,0.4951 -1.340896,0.4951 -0.773594,0 -1.320267,-0.443525 -0.536358,-0.45384 -0.556987,-1.196491 z"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:41.67929999999999779px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.528105"
+         id="path1084" />
+    </g>
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="path1088"
+       d="m 1.5391658,4.6204275 v 0 c 4.2435361,-3.90323396 17.5019532,-6.416235 16.4513612,0.02529 0.571897,0.02173 1.205718,0.03076 1.92349,0.01072 C 20.99827,-1.6473007 7.5036346,-0.99283468 1.5391658,4.6204165 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07605320000000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
