@@ -6,7 +6,7 @@
       </button>
       <img class="dashboard-logo" src="../../../assets/img/logo-link-blanco.svg" alt="Link"/>
     </div>
-    <div fxLayout="row" fxLayoutAlign="end">
+    <div fxLayout="row" fxLayoutAlign="end" fxLayoutGap="4px">
         <button mat-icon-button [matMenuTriggerFor]="dropdownNotificacionsMenu" aria-label="Example icon button with a menu icon">
           <mat-icon matBadge="15" matBadgeColor="warn">notifications_none</mat-icon>
         </button>
@@ -48,8 +48,8 @@
             <strong>Ver todos los mensajes</strong>
           </button>
         </mat-menu>
-        <button mat-icon-button [matMenuTriggerFor]="dropdownSessionMenu" aria-label="Example icon-button with a menu">
-          <mat-icon>person</mat-icon>
+        <button mat-icon-button [matMenuTriggerFor]="dropdownSessionMenu" aria-label="Example icon-button with a menu" class="button-photo">
+          <img src="../../../assets/img/users/jpedrozo.jpg" alt="Javier Pedrozo" class="button-photo-icon">
         </button>
         <mat-menu #dropdownSessionMenu="matMenu" class="session-dropdown-menu">
           <mat-list fxLayout="column wrap" fxLayoutAlign="center center">
@@ -58,7 +58,7 @@
                     alt="Javier Andres Pedrozo Payares" 
                     class="profile-image"/>
             </div>
-            <div mat-line class="">Javier Andrés Pedrozo Payares</div>
+            <div mat-line class="mat-body-strong ">Javier Andrés Pedrozo Payares</div>
             <div mat-line><span class="mat-caption"><a href="#"></a>pedrozopayares@users.noreply.github.com</span></div>
             <div mat-line fxLayout="column wrap" fxLayoutAlign="center center" fxLayoutGap="20px">
               <button mat-raised-button>
@@ -104,10 +104,11 @@
     <mat-sidenav-content>
   
       <!-- Applying the mat-tyography class adds styles for native elements. -->
-      <section class="mat-typography title-group">
-        <h1>Heading Goes Here</h1>
+      <mat-toolbar color="primary" class="-mt-8 pt-8 pl-10 -ml-10 pr-10 mb-10" >
+        <mat-icon>panel</mat-icon>
+        <h1>Escritorio</h1>
         <mat-divider></mat-divider>
-      </section>
+      </mat-toolbar>
   
       <!-- Angular material cards -->
       <div class="productCards">
