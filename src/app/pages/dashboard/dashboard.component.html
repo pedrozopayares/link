@@ -35,12 +35,12 @@
           <mat-selection-list #shoes [multiple]="false">
             <mat-list-option>
               <mat-icon mat-list-icon aria-hidden="true">email</mat-icon>
-              <div mat-line>Tienes 10 mensajes nuevos</div>
+              <div mat-line>Gilbert Avilez</div>
               <div mat-line><span class="mat-caption">Hace 4 minutos</span></div>
             </mat-list-option>
             <mat-list-option>
-              <mat-icon mat-list-icon aria-hidden="true">note</mat-icon>
-              <div mat-line>2 tareas por completar en el día</div>
+              <mat-icon mat-list-icon aria-hidden="true">email</mat-icon>
+              <div mat-line>Andrés Payares</div>
               <div mat-line><span class="mat-caption">Hace 10 horas</span></div>
             </mat-list-option>
           </mat-selection-list>
@@ -92,6 +92,19 @@
     <!-- Sidenav -->
     <mat-sidenav #sidenav [mode]="isBiggerScreen() ? 'over' : 'side'" [(opened)]="opened" [fixedInViewport]="true"
       [fixedTopGap]>
+      <mat-list fxLayout="row wrap" fxLayoutAlign="start center" class="mt-2 mb-2">
+        <div fxFlex="33%">
+          <div mat-line class="sidenav-profile-image">
+            <img mat-line src="../../../assets/img/users/jpedrozo.jpg" 
+                alt="Javier Andres Pedrozo Payares" 
+                class="profile-image"/>
+          </div>
+        </div>
+        <div fxFlex="67%">
+          <div mat-line class="mat-body-strong text-lg">Javier Pedrozo</div>
+          <div mat-line><span class="mat-caption text-sm"><a href="#"></a>Coord. Sistemas</span></div>
+        </div>
+      </mat-list>
       <mat-nav-list>
         <a mat-list-item>
           <mat-icon>dashboard</mat-icon> Escritorio
@@ -117,13 +130,50 @@
     <!-- Main content -->
     <mat-sidenav-content>
       <!-- Applying the mat-tyography class adds styles for native elements. -->
-      <section>
+      <section class="mb-2">
         <h1>Escritorio</h1>
         <mat-divider></mat-divider>
       </section>
       
-  
       <!-- Angular material cards -->
+      <div fxLayout="row wrap" fxLayoutAlign="start start" fxLayoutGap="15px" class="my-4">
+        <div fxFlex="100%">
+          <mat-card class="mat-elevation-z2">Simple card</mat-card>
+        </div>
+      </div>
+
+      <!-- Angular material cards -->
+      <div fxLayout="row wrap" fxLayoutAlign="start start" fxLayoutGap="15px" class="my-4">
+        <div fxFlex="24%">
+          <mat-card class="mat-elevation-z2">Simple card</mat-card>
+        </div>
+        <div fxFlex="49%">
+          <mat-card class="mat-elevation-z2">Simple card</mat-card>
+        </div>
+        <div fxFlex="24%">
+          <mat-card class="mat-elevation-z2">Simple card</mat-card>
+        </div>
+      </div>
+
+      <!-- Angular material cards -->
+      <div fxLayout="row wrap" fxLayoutAlign="start start" fxLayoutGap="15px" class="my-4">
+        <div fxFlex="100%">
+          <mat-card class="mat-elevation-z2">Simple card</mat-card>
+        </div>
+      </div>
+
+      <!-- Angular material cards -->
+      <div fxLayout="row wrap" fxLayoutAlign="start start" fxLayoutGap="15px" class="my-4">
+        <div fxFlex="32%">
+          <mat-card class="mat-elevation-z2">Simple card</mat-card>
+        </div>
+        <div fxFlex="32%">
+          <mat-card class="mat-elevation-z2">Simple card</mat-card>
+        </div>
+        <div fxFlex="32%">
+          <mat-card class="mat-elevation-z2">Simple card</mat-card>
+        </div>
+      </div>
       
   
     </mat-sidenav-content>
