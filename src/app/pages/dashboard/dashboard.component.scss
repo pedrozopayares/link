@@ -5,10 +5,13 @@
     width: 80px;
     height: 80px;
 }
+.sidenav-profile-image .profile-image {
+    width: 55px;
+    height: 55px;
+}
 .profile-image {
     border-radius: 50%;
 }
-.sidenav-content-title {
-    background-color: #3f51b5;
-    color: white;
+mat-sidenav-content {
+    background-color: #EEF5F9;
 }
