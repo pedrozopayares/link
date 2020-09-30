@@ -137,53 +137,55 @@
       
       <!-- Angular material cards -->
       <div fxLayout="row wrap" fxLayoutAlign="start start" fxLayoutGap="15px" class="my-4">
-        <div fxFlex="100%">                       <!-- Row    -->
+        <div fxFlex="100%">                                                         <!-- Row    -->
           <mat-card class="mat-elevation-z2">
-            <div fxFlex="33%">                    <!-- Column -->
-              <div fxFlex="30%">
-                <span class="material-icons">
-                  perm_identity
-                </span>
+            <div class="p-8" fxLayoutGap="30px">
+              <div fxFlex="33%" class="number-panel-horizontal">                    <!-- Column -->
+                <div fxFlex="30%" class="icon">
+                  <span class="material-icons text-5xl">
+                    perm_identity
+                  </span>
+                </div>
+                <div fxFlex="40%" class="title">
+                  <span class="font-light text-2xl">
+                    Nuevos <br/> registros
+                  </span>
+                </div>
+                <div fxFlex="30%" class="number">
+                    <span class="text-3xl font-black">2</span>
+                </div>
               </div>
-              <div fxFlex="40%">
-                <h4>
-                  Nuevos registros
-                </h4>
+              <mat-divider [vertical]="true"></mat-divider>
+              <div fxFlex="33%" class="number-panel-horizontal">                    <!-- Column -->
+                <div fxFlex="30%" class="icon">
+                  <span class="material-icons">
+                    perm_identity
+                  </span>
+                </div>
+                <div fxFlex="40%" class="title">
+                  <h4 class="font-light text-5lg">
+                    Nuevos registros
+                  </h4>
+                </div>
+                <div fxFlex="30%" class="number">
+                  <h2 style="font-size: 40px;">2</h2>
+                </div>
               </div>
-              <div fxFlex="30%">
-                <h2>2</h2>
-              </div>
-            </div>
-            <mat-divider [vertical]="true"></mat-divider>
-            <div fxFlex="33%">                    <!-- Column -->
-              <div fxFlex="30%">
-                <span class="material-icons">
-                  perm_identity
-                </span>
-              </div>
-              <div fxFlex="40%">
-                <h4>
-                  Nuevos registros
-                </h4>
-              </div>
-              <div fxFlex="30%">
-                <h2>2</h2>
-              </div>
-            </div>
-            <mat-divider [vertical]="true"></mat-divider>
-            <div fxFlex="33%">                    <!-- Column -->
-              <div fxFlex="30%">
-                <span class="material-icons">
-                  perm_identity
-                </span>
-              </div>
-              <div fxFlex="40%">
-                <h4>
-                  Nuevos registros
-                </h4>
-              </div>
-              <div fxFlex="30%">
-                <h2>2</h2>
+              <mat-divider [vertical]="true"></mat-divider>
+              <div fxFlex="33%" class="number-panel-horizontal">                    <!-- Column -->
+                <div fxFlex="30%" class="icon">
+                  <span class="material-icons">
+                    perm_identity
+                  </span>
+                </div>
+                <div fxFlex="40%" class="title">
+                  <h4 class="font-light text-5lg">
+                    Nuevos registros
+                  </h4>
+                </div>
+                <div fxFlex="30%" class="number">
+                  <h2 style="font-size: 40px;">2</h2>
+                </div>
               </div>
             </div>
           </mat-card>
