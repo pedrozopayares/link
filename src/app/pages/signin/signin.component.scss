@@ -11,7 +11,7 @@
     height: 100%;
     display: block;
     z-index: -1;
-    background: url(../../../assets/img/bg.jpg);
+    background: url('../../../assets/img/bg.jpg');
     background-size: cover;
     -webkit-filter: blur(10px);
     filter: blur(10px);
@@ -21,7 +21,7 @@
   }
 
   .signin .wellcome {
-    background: rgba(63,81,181,0.8);
+    background: rgba(63, 81, 181, 0.8);
     color: #fff;
   }
   .signin .wellcome.mat-card {
